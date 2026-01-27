@@ -10,8 +10,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'NBalance Docs',
-  tagline: 'NBalance Docs',
+  title: 'nBalance Docs',
+  tagline: 'Complete documentation for nBalance',
   favicon: 'img/nbalance-logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -83,9 +83,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'NBalance Docs',
+        title: 'nBalance',
         logo: {
-          alt: 'NBalance Docs Logo',
+          alt: 'nBalance Docs Logo',
           src: 'img/nbalance-logo.png',
         },
         items: [
