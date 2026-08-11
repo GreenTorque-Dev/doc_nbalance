@@ -1,0 +1,8 @@
+{
+    "label": "System & Maintenance",
+    "position": 7,
+    "link": {
+        "type": "doc",
+        "id": "sys-index"
+    }
+}

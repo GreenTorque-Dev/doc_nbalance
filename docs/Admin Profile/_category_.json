@@ -1,0 +1,8 @@
+{
+    "label": "Admin Profile",
+    "position": 9,
+    "link": {
+        "type": "doc",
+        "id": "admin-index"
+    }
+}

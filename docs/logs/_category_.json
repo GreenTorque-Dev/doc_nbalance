@@ -1,0 +1,8 @@
+{
+    "label": "Logs",
+    "position": 8,
+    "link": {
+        "type": "doc",
+        "id": "logs-index"
+    }
+}
