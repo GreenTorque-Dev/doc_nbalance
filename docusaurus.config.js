@@ -102,6 +102,7 @@ const config = {
             ],
           },
         ],
+        copyright: `Powered by Green Cloud.`,
       },
       prism: {
         theme: prismThemes.github,
