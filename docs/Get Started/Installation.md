@@ -350,6 +350,14 @@ Upon successful validation, the installer displays **â€œContinuing installationâ
   />
 </div>
 
+<div style={{maxWidth: '700px' , paddingTop: '40px' , display: 'inline-block'}}>
+  <img
+    src="/img/install-22.png"
+    alt="Add udp Server"
+    style={{boxShadow: '0 10px 30px rgba(0,0,0,0.3)'}}
+  />
+</div>
+
 ## 12.Installation Completed Successfully. 
 
 <div style={{maxWidth: '700px' , display: 'inline-block'}}>
